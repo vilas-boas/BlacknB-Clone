@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const EmpresaContainer = styled.div`
-    width: 100%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     color: unset;

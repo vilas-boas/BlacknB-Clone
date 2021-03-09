@@ -18,14 +18,14 @@ export const Section = styled.div`
 
 export const FilhoContainer = styled.div`
     box-sizing: border-box;
-    width: 35%;
+    width: 40%;
     line-height: 21px;
     position: static;
 `;
 
 export const MainContainer = styled.div`
     box-sizing: border-box;
-    display: grid;
+    display: flex;
     float: none;
     line-height: 21px;
     position: static;
